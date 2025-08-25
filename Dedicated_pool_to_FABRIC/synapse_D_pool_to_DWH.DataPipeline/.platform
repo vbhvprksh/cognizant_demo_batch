@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "synapse_D_pool_to_DWH"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4c873104-6526-91b3-4a47-37dfbb452cdd"
+  }
+}

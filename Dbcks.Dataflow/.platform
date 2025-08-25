@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "Dbcks"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "137c36aa-a452-a285-4879-2a4c0fdd7e5a"
+  }
+}

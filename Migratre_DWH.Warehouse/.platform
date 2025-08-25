@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Warehouse",
+    "displayName": "Migratre_DWH"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "20bf27bd-6dc6-95e5-4464-a2ca1a2f8115"
+  }
+}
